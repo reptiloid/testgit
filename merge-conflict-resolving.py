@@ -1,2 +1,2 @@
 print("merge-conflict-resolving file")
-print("update 1")
+print("update 2")
